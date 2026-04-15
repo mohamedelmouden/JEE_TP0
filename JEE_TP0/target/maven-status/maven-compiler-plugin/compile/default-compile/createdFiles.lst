@@ -1,0 +1,17 @@
+mn\ect\controller\StockItemCreateServlet.class
+mn\ect\util\HibernateUtil.class
+mn\ect\dao\StockItemDAO.class
+mn\ect\controller\StockItemDeleteServlet.class
+mn\ect\controller\AppUserUpdateServlet.class
+mn\ect\controller\StockItemUpdateServlet.class
+mn\ect\controller\AppUserDeleteServlet.class
+mn\ect\controller\StockItemListServlet.class
+mn\ect\controller\StockItemFormServlet.class
+mn\ect\dao\AppUserDAO.class
+mn\ect\controller\AppUserCreateServlet.class
+mn\ect\controller\AppUserListServlet.class
+mn\ect\dao\AbstractDAO.class
+mn\ect\entity\StockItem.class
+mn\ect\controller\AppUserFormServlet.class
+mn\ect\entity\AppUser.class
+mn\ect\dao\GenericDAO.class
